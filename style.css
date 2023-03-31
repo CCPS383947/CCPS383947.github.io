@@ -1,3 +1,33 @@
-.head
-color: blue;
+p {
+  background-color: blue;
+  color: pink
+}
 
+ul {
+  height: 100px
+  width: 50px;
+}
+
+ol {
+  Font-family: Ariel
+  Font-weight: bold
+}
+
+h1 {
+  background-image: src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FBasketball_%2528ball%2529&psig=AOvVaw3GbANVUKh1YDTFRYmQDkDO&ust=1680370641359000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNj_rcvahv4CFQAAAAAdAAAAABAE"
+  text-decoration: underline;
+}
+
+header{
+  overflow: hidden;
+  display: block;
+}
+body {
+  text align: center;
+  line height: 1.5;
+}
+
+footer {
+  color: red;
+  font-weight: none;
+}
